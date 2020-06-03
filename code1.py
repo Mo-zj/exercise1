@@ -17,3 +17,6 @@ def login5():
 def login6():
 	print("save content on  master branch")
 
+def login7():
+	print("add new line")
+
