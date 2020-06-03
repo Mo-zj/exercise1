@@ -14,3 +14,5 @@ def login4():
 def login5():
 	print("dev")
 
+def login6():
+	print("dev2 master branch")
